@@ -26,7 +26,7 @@ Next you do
 db = DB.new(name, token)
 ```
 
-Where `name` is the name of your database, and `token` is teh token that you got from https://s1.kognise.dev/token
+Where `name` is the name of your database, and `token` is the token that you got from https://s1.kognise.dev/token
 
 Now basically all it is, is a hash that saves.
 
