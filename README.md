@@ -51,5 +51,5 @@ db.data.each { |key, value| puts "#{key} is #{value}" }
 
 Otherwise, you can just do:
 ```ruby
-db["hash"].each { |key, value| puts "#{key} is #{value}" )
+db["hash"].each { |key, value| puts "#{key} is #{value}" }
 ```
